@@ -1,0 +1,13 @@
+guests = ['moe', 'ahmed', 'zain', 'hmam', 'nazem', 'yasin', 'amro', 'foor']
+uninvited = guests.pop()
+print(f"sorry {uninvited}, but you are uninvited")
+uninvited = guests.pop()
+print(f"sorry {uninvited}, but you are uninvited")
+uninvited = guests.pop()
+print(f"sorry {uninvited}, but you are uninvited")
+uninvited = guests.pop()
+print(f"sorry {uninvited}, but you are uninvited")
+uninvited = guests.pop()
+print(f"sorry {uninvited}, but you are uninvited")
+uninvited = guests.pop()
+print(f"sorry {uninvited}, but you are uninvited")
