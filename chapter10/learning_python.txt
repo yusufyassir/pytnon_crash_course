@@ -1,0 +1,3 @@
+in python you can make games
+in python you can read file
+in python yo can use modules
